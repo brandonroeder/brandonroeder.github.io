@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: ""
 tags: [Jekyll, theme, responsive, blog, template]
 image:
