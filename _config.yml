@@ -1,20 +1,20 @@
 title:            Balzac
 tagline:          A beautiful theme.
 description:      Describe your website.
-canonical: http://jekyll.gtat.me
+canonical: https://brandonsroeder.com
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Brandon Roeder
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  email:          brandonsroeder.com
+  twitter:        brandonscott
+  github:         brandonroeder
+  #instagram:      ctrunsthis
+  #dribbble:       coletownsend
+  #disqus:         balzac
+  location:       "Dallas, TX"
   # Plug in your disqus shortname!
 
 tools:
@@ -27,10 +27,10 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/brandonroeder
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: Resume
+    url: http://brandonsroeder.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
