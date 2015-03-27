@@ -26,6 +26,8 @@ tools:
 links:
   - title: About
     url: /about
+  - title: Projects
+    url: /projects
   - title: Github
     url: https://github.com/brandonroeder
     external: true
