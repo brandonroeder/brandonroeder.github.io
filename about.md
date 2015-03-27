@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/index.html
-title: 
-description: Brandon is an iOS Developer and student at The University of Texas at Dallas
+title: About
+description: Hi, I'm Brandon
 tags: [about, Jekyll, theme, responsive]
 ---
 
