@@ -1,6 +1,6 @@
-import Page from '../components/page'
-import Heading from '../components/heading'
-import SubHeading from '../components/subheading'
+import Page from '../src/components/page'
+import Heading from '../src/components/heading'
+import SubHeading from '../src/components/subheading'
 import { Follow } from 'react-twitter-widgets'
 
 export default () => (

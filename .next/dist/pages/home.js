@@ -8,15 +8,15 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _page = require('../components/page');
+var _page = require('../src/components/page');
 
 var _page2 = _interopRequireDefault(_page);
 
-var _heading = require('../components/heading');
+var _heading = require('../src/components/heading');
 
 var _heading2 = _interopRequireDefault(_heading);
 
-var _subheading = require('../components/subheading');
+var _subheading = require('../src/components/subheading');
 
 var _subheading2 = _interopRequireDefault(_subheading);
 

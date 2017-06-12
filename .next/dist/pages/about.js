@@ -8,7 +8,7 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _page = require('../components/page');
+var _page = require('../src/components/page');
 
 var _page2 = _interopRequireDefault(_page);
 
